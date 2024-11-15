@@ -8,7 +8,7 @@ The official GitHub repository for **LSTMppo-DRL-StockTrade**, implementing a De
 ---
 
 ## Latest
-- `10/07/2024`: The repository has been created. The code will be publicly available soon. Stay tuned for updates!
+- `10/07/2024`: The repository has been created. The code will be publicly available as soon as the paper is published. Stay tuned for updates!
 
 ---
 
