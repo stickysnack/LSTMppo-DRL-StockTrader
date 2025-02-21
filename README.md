@@ -73,16 +73,16 @@ If you find this repository or our paper helpful in your research or project, pl
   <summary>Click to view BibTeX</summary>
 
 ```bibtex
-@INPROCEEDINGS{Veisi2024ICCKE,
-  author={Veisi, Mahan and Shahbazi Khojasteh, Mahdi and Berangi, Sadra and Salimi-Badr, Armin},
-  booktitle={2024 14th International eConference on Computer and Knowledge Engineering (ICCKE)},
-  title={A Deep Reinforcement Learning Approach Combining Technical and Fundamental Analyses with a Large Language Model for Stock Trading},
+@INPROCEEDINGS{10874515,
+  author={Veisi, Mahan and Berangi, Sadra and Khojasteh, Mahdi Shahbazi and Salimi-Badr, Armin},
+  booktitle={2024 14th International Conference on Computer and Knowledge Engineering (ICCKE)}, 
+  title={A Deep Reinforcement Learning Approach Combining Technical and Fundamental Analyses with a Large Language Model for Stock Trading}, 
   year={2024},
   volume={},
   number={},
-  pages={1-6},
-  doi={10.1109/ICCKE10874515.2024.1234567}
-}
+  pages={224-229},
+  keywords={Social networking (online);Large language models;Computational modeling;Soft sensors;Deep reinforcement learning;Data models;Stability analysis;Long short term memory;Portfolios;Optimization;Deep reinforcement learning;proximal policy optimization;large language model;automated stock trading;financial markets},
+  doi={10.1109/ICCKE65377.2024.10874515}}
 ```
 </details>
 
