@@ -7,7 +7,7 @@ This is the official GitHub repository for **LSTMppo-DRL-StockTrade**. It implem
 ---
 
 ## Latest
-- `02/XX/2025`: The paper is now published in IEEE ICCKE 2024. 
+- `02/21/2025`: The paper is now published in IEEE ICCKE 2024. 
 - `10/07/2024`: The repository was created. 
 - **Note**: The code is not yet publicly available. We will release the code soon.
 
