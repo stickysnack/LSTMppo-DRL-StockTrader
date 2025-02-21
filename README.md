@@ -15,7 +15,7 @@ This is the official GitHub repository for **LSTMppo-DRL-StockTrade**. It implem
 
 ## Paper
 **Title**: A Deep Reinforcement Learning Approach Combining Technical and Fundamental Analyses with a Large Language Model for Stock Trading  
-**Authors**: [Mahan Veisi](https://github.com/MahanVeisi8), [Mahdi Shahbazi Khojasteh](https://github.com/MehdiShahbazi), [Sadra Berangi](https://github.com/sadraberangi), and Armin Salimi-Badr  
+**Authors**: [Mahan Veisi](https://github.com/MahanVeisi8), [Sadra Berangi](https://github.com/sadraberangi), [Mahdi Shahbazi Khojasteh](https://github.com/MehdiShahbazi), and Armin Salimi-Badr  
 
 **Link to IEEE Xplore**:  
 [https://ieeexplore.ieee.org/document/10874515](https://ieeexplore.ieee.org/document/10874515)
