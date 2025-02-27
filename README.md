@@ -2,6 +2,11 @@
 
 ### A Deep Reinforcement Learning Approach Combining Technical and Fundamental Analyses with a Large Language Model for Stock Trading
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lb27KCJyRjOa5jgw8VW8kr6glAi0luhe?usp=sharing)
+![Python](https://img.shields.io/badge/Python-3.8-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-1.8.0-orange)
+![Status](https://img.shields.io/badge/status-active-green)
+
 <!-- 2×2 table of figures (PDF files in the `asset` folder). -->
 | **Figure 1: Cumulative Returns Plot** | **Figure 2: Hyperparameter Set 5 (window test)** |
 | --- | --- |
