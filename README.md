@@ -2,14 +2,23 @@
 
 ### A Deep Reinforcement Learning Approach Combining Technical and Fundamental Analyses with a Large Language Model for Stock Trading
 
+<!-- 2×2 table of figures (PDF files in the `asset` folder). -->
+| **Figure 1: Cumulative Returns Plot** | **Figure 2: Hyperparameter Set 5 (window test)** |
+| --- | --- |
+| [![Figure 1](asset/cumulative_returns_plot.pdf)](asset/cumulative_returns_plot.pdf) | [![Figure 2](asset/Hyperparameter_Set_5 (window test).pdf)](asset/Hyperparameter_Set_5 (window test).pdf) |
+
+| **Figure 3: Neural Architecture** | **Figure 4: State Architecture** |
+| --- | --- |
+| [![Figure 3](asset/Neural_Architecture.pdf)](asset/Neural_Architecture.pdf) | [![Figure 4](asset/State_Architecture.pdf)](asset/State_Architecture.pdf) |
+
 This is the official GitHub repository for **LSTMppo-DRL-StockTrade**. It implements a Deep Reinforcement Learning (DRL) system for automated stock trading, combining technical and fundamental analyses (via sentiment from a large language model). The project is associated with our paper published in **[IEEE ICCKE 2024](https://ieeexplore.ieee.org/document/10874515)**:
 
 ---
 
 ## Latest
-- `02/21/2025`: The paper is now published in IEEE ICCKE 2024. 
-- `10/07/2024`: The repository was created. 
-- **Note**: The code is not yet publicly available. We will release the code soon.
+- `02/27/2025`: Added the main notebook (`MAIN(A_Deep_Reinforcement_Learning_Approach_Combining_Technical_and_Fundamental_Analyses_with_a_Large_Language_Model_for_Stock_Trading)`) and the figures (see above). The only remaining task is to clean and structure the code.
+- `02/21/2025`: The paper is now published in IEEE ICCKE 2024.
+- `10/07/2024`: The repository was created.
 
 ---
 
