@@ -5,7 +5,7 @@
 <!-- 2×2 table of figures (PDF files in the `asset` folder). -->
 | **Figure 1: Cumulative Returns Plot** | **Figure 2: Hyperparameter Set 5 (window test)** |
 | --- | --- |
-| [![Figure 1](asset/cumulative_returns_plot.png)](asset/cumulative_returns_plot.png) | [![Figure 2](asset/Hyperparameter_Set_5 (window test).png)](asset/Hyperparameter_Set_5 (window test).png) |
+| [![Figure 1](asset/cumulative_returns_plot.png)](asset/cumulative_returns_plot.png) | [![Figure 2](asset/Hyperparameter_Set_5.png)](asset/Hyperparameter_Set_5.png) |
 
 | **Figure 3: Neural Architecture** | **Figure 4: State Architecture** |
 | --- | --- |
