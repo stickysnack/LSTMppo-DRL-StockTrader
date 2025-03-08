@@ -7,6 +7,12 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-1.8.0-orange)
 ![Status](https://img.shields.io/badge/status-active-green)
 
+## Video Presentation
+
+[![Watch the Presentation on YouTube](https://img.youtube.com/vi/Jfpc6_kGLYo/0.jpg)](https://youtu.be/Jfpc6_kGLYo)
+
+
+
 <!-- 2×2 table of figures (PDF files in the `asset` folder). -->
 | **Figure 1: Cumulative Returns Plot** | **Figure 2: Hyperparameter Set 5 (window test)** |
 | --- | --- |
