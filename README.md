@@ -1,6 +1,14 @@
 # LSTMppo-DRL-StockTrade
 
+
+
 ### A Deep Reinforcement Learning Approach Combining Technical and Fundamental Analyses with a Large Language Model for Stock Trading
+
+
+[![Stars](https://img.shields.io/github/stars/MahanVeisi8/LSTMppo-DRL-StockTrade?logo=GitHub&color=yellow)](https://github.com/OWNER/LSTMppo-DRL-Stock-Trade/stargazers)
+[![Downloads](https://img.shields.io/github/downloads/MahanVeisi8/LSTMppo-DRL-StockTrade/total?logo=GitHub)](https://github.com/OWNER/LSTMppo-DRL-StockTrade/releases)
+[![License](https://img.shields.io/github/license/MahanVeisi8/LSTMppo-DRL-StockTrade?color=blue)](https://github.com/OWNER/LSTMppo-DRL-StockTrade/blob/main/LICENSE)
+
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lb27KCJyRjOa5jgw8VW8kr6glAi0luhe?usp=sharing)
 ![Python](https://img.shields.io/badge/Python-3.8-blue)
