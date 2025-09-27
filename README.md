@@ -1,10 +1,6 @@
 # LSTMppo-DRL-StockTrade
  
 
-[![Stars](https://img.shields.io/github/stars/MahanVeisi8/LSTMppo-DRL-StockTrader?logo=GitHub&color=yellow)](https://github.com/MahanVeisi8/LSTMppo-DRL-StockTrader/stargazers)
-[![Downloads](https://img.shields.io/github/downloads/MahanVeisi8/LSTMppo-DRL-StockTrader/total?logo=GitHub)](https://github.com/MahanVeisi8/LSTMppo-DRL-StockTrader/releases)
-[![License](https://img.shields.io/github/license/MahanVeisi8/LSTMppo-DRL-StockTrader?color=blue)](https://github.com/MahanVeisi8/LSTMppo-DRL-StockTrader/blob/main/LICENSE)
-
 
 ### A Deep Reinforcement Learning Approach Combining Technical and Fundamental Analyses with a Large Language Model for Stock Trading
 
@@ -13,6 +9,8 @@
 ![Python](https://img.shields.io/badge/Python-3.8-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-1.8.0-orange)
 ![Status](https://img.shields.io/badge/status-active-green)
+[![Stars](https://img.shields.io/github/stars/MahanVeisi8/LSTMppo-DRL-StockTrader?logo=GitHub&color=yellow)](https://github.com/MahanVeisi8/LSTMppo-DRL-StockTrader/stargazers)
+[![License](https://img.shields.io/github/license/MahanVeisi8/LSTMppo-DRL-StockTrader?color=blue)](https://github.com/MahanVeisi8/LSTMppo-DRL-StockTrader/blob/main/LICENSE)
 
 ## Video Presentation
 
